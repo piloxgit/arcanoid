@@ -1,3 +1,4 @@
+#include <Arduino.h>
 #include <EEPROM.h>
 #include "font6x8.h"
 #include <avr/sleep.h>
